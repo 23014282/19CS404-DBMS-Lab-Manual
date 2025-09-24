@@ -13,29 +13,3 @@ The Central Library wants to manage book lending and cultural events.
 
 ### ER Diagram:
 [WORKSHOP.drawio (1).pdf](https://github.com/user-attachments/files/22511039/WORKSHOP.drawio.1.pdf)
-
-
-### Entities and Attributes
-
-| Entity | Attributes (PK, FK) | Notes |
-|--------|--------------------|-------|
-|        |                    |       |
-|        |                    |       |
-|        |                    |       |
-|        |                    |       |
-|        |                    |       |
-
-### Relationships and Constraints
-
-| Relationship | Cardinality | Participation | Notes |
-|--------------|------------|---------------|-------|
-|              |            |               |       |
-|              |            |               |       |
-|              |            |               |       |
-
-### Assumptions
-- 
-- 
-- 
-
----
