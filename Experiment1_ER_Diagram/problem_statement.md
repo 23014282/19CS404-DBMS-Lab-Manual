@@ -1,4 +1,4 @@
-# Scenario B: City Library Event & Book Lending System
+# Scenario : City Library Event & Book Lending System
 
 **Business Context:**  
 The Central Library wants to manage book lending and cultural events.
